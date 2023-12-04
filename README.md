@@ -36,7 +36,7 @@ NASA-PROJECT is a Space Mission Control System, using Kepler and SpaceX API data
 
 2. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/NASA-PROJECT.git
+   git clone https://github.com/7AkhilV/Nasa-Project.git
    cd NASA-PROJECT
 
 
